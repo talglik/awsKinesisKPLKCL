@@ -1,0 +1,29 @@
+[ {
+  "userID" : 5,
+  "name" : "Sabi",
+  "isVoiceRecorded" : true,
+  "isScreenRecorded" : true,
+  "isOnCall" : true,
+  "startEventDateTime" : "2017-12-27T15:40:44.097"
+}, {
+  "userID" : 12,
+  "name" : "stav11",
+  "isVoiceRecorded" : true,
+  "isScreenRecorded" : false,
+  "isOnCall" : true,
+  "startEventDateTime" : null
+}, {
+  "userID" : 3,
+  "name" : "Ida",
+  "isVoiceRecorded" : false,
+  "isScreenRecorded" : false,
+  "isOnCall" : false,
+  "startEventDateTime" : "2017-12-27T15:40:44.097"
+}, {
+  "userID" : 4,
+  "name" : "Tal",
+  "isVoiceRecorded" : false,
+  "isScreenRecorded" : true,
+  "isOnCall" : true,
+  "startEventDateTime" : "2017-12-27T15:40:44.097"
+} ]
